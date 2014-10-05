@@ -1,8 +1,10 @@
-﻿using UnityEngine;
+using UnityEngine;
 using System.Collections;
 
 public class GenerateMap : MonoBehaviour
 {
+	// the answer to life, the universe, and everything.
+	//public int seed = 42;
 	public GameObject emptyRoom;
 	public GameObject cornerRoom;
 	public GameObject wallRoom;
@@ -12,6 +14,10 @@ public class GenerateMap : MonoBehaviour
 
 	void Awake ()
 	{
+		// sets the seed.
+		//Random.seed = seed;
+
+		// Figure out the sizes of our rooms!
 		float emptyRoomWidth = emptyRoom.renderer.bounds.size.x;
 		float emptyRoomLength = emptyRoom.renderer.bounds.size.z;
 		float cornerRoomWidth = cornerRoom.renderer.bounds.size.x;

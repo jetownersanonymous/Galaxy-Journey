@@ -4,11 +4,11 @@ using System.Collections;
 public class FreeCamera : MonoBehaviour 
 {
 
-	public float lookSpeed = 15.0f;
-	public float moveSpeed = 15.0f;
+	public float lookSpeed = 1.0f;
+	public float moveSpeed = 1.0f;
 	
 	public float rotationX = 0.0f;
-	public float rotationY = 0.0f;
+	public float rotationY = -90.0f;
 	
 	void Update ()
 	{
