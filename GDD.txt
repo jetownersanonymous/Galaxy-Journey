@@ -1,0 +1,32 @@
+Galaxy Journey
+---------------------------------------
+
+An isometric RPG with a starship-based science fiction theme.
+
+---------------------------------------
+
+1. Overview
+	A. Style
+		i. Isometric View
+		ii. 3D environment
+		iii. Sprite characters (?)
+	B. Setting
+		i. 60's SciFi
+	C. Systems/Features
+		i. FUDGE Character System
+			a. Skill list
+			b. Talent list
+			c. Health system (physical, social)
+		ii. Procedural generation
+			a. Galaxy, solar systems, planets and other celestial bodies for space exploration, trading, and colonization.
+			b. Alien races, sentient and non-sentient.
+			c. Organizations to cooperate and compete with.
+			// d. Planetary terrain + cities
+			d. Landing zones
+			e. Starbase interiors
+			f. Events
+		iii. Multiplayer
+			a. Players work together as crews
+			b. Server controls
+
+*** unfinished document ***
